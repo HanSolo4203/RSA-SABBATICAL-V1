@@ -1,0 +1,174 @@
+{
+  "website": "https://sabbatical.travel",
+  "company": "Sabbatical Travel",
+  "tagline": "Journey Inward, Travel Outward",
+  "description": "A transformational travel company that curates life-affirming experiences to help individuals and organizations unlock their full potential",
+  "purpose": "Harness the power of transformational travel to help individuals and organizations seeking life affirming experiences",
+  "core_values": {
+    "sustainability": "Our experiences are built on core values of sustainability and equity",
+    "equity": "Equitable compensation for the communities, cultures, and individuals our clients engage with",
+    "giving": "Allocating 5% of all profits to GiveWell"
+  },
+  "process": {
+    "step_1": {
+      "name": "Examine",
+      "description": "In this multistep process, we ask what and why so that we can provide a how. After an introductory behavioral analysis, we pair our clients with a highly-skilled Guide who will help determine what curated journey best services their unique personal and professional ambitions."
+    },
+    "step_2": {
+      "name": "Experience", 
+      "description": "In partnership with our Guides, Travel Concierges, and Experience Designers, our clients will embark on life-affirming experiences thoughtfully designed to help them journey inward and experience transformation."
+    },
+    "step_3": {
+      "name": "Evolve",
+      "description": "The experience is done, but we are not. Every week, for 6 weeks after the experience, our clients have follow-up sessions with their designated Guide to help the re-integration process and make sure they're on the right path to enact transformation."
+    }
+  },
+  "benefits": {
+    "deepen_meaning": "We challenge our clients to reassess their personal and professional ambitions, and reaffirm the values that drive them.",
+    "enhance_performance": "We help our clients use the time apart from their business to reflect on how they can unlock their full potential.",
+    "find_fulfilment": "We foster long-term transformation so that our clients can live a deep, harmonious life."
+  },
+  "experiences": [
+    {
+      "name": "Ancient Plant Wisdom",
+      "type": "Psychedelic ceremonies Sacred Medicine Wisdom",
+      "description": "Join us and other leaders for a profoundly transformative experience of healing, visioning and coming into true service to humanity.",
+      "url": "https://sabbatical.travel/experiences/ancient-plant-wisdom/"
+    },
+    {
+      "name": "Lose Yourself",
+      "type": "Hero's journey",
+      "description": "Tailored for visionary leaders, Lose Yourself is an extraordinary solo odyssey. Far beyond conventional travel, it's a solitary venture, a hero's journey into self-discovery.",
+      "url": "https://sabbatical.travel/experiences/lose-yourself/"
+    },
+    {
+      "name": "Rewilding",
+      "type": "Burn out",
+      "description": "In this transformative experience, we beckon you to shed the trappings of modernity and rediscover the untamed essence within.",
+      "url": "https://sabbatical.travel/experiences/rewilding/"
+    },
+    {
+      "name": "Boundless Mind",
+      "type": "Leadership",
+      "description": "Embark on a courageous expedition to the polar expanse, where we confront the icy grip of limiting thoughts and reactive responses.",
+      "url": "https://sabbatical.travel/experiences/boundless-mind/"
+    },
+    {
+      "name": "Echoes of Ancestors",
+      "type": "Intergenerational",
+      "description": "Embark on a soul-stirring odyssey through time. Begin with intimate sessions with skilled coaches and facilitators, setting the stage for a deeply transformative experience.",
+      "url": "https://sabbatical.travel/experiences/echoes-of-ancestors/"
+    },
+    {
+      "name": "Nature Healing",
+      "type": "Rites of passage",
+      "description": "Embark on a transformative journey in the heart of the Outback, where ancient Indigenous techniques and traditional ceremonies converge to revitalize your body and mind.",
+      "url": "https://sabbatical.travel/experiences/nature-healing/"
+    },
+    {
+      "name": "The Ultimate Perspective Shift From Space",
+      "type": "Intergenerational",
+      "description": "Step into space for a transformative experience. Journey 25 km above Earth and return with a profound shift in your worldview, legacy, and connection to the universe.",
+      "url": "https://sabbatical.travel/experiences/perspective-shift/"
+    },
+    {
+      "name": "Relationship Healing",
+      "type": "Relationship intelligence",
+      "description": "Explore the profound impact of relational intelligence, a vital skill for comprehending and adeptly navigating emotions within relationships.",
+      "url": "https://sabbatical.travel/experiences/relationship-healing/"
+    },
+    {
+      "name": "Surrogacy Sabbatical",
+      "type": "Parenthood",
+      "description": "Explore parenthood with the Surrogacy Sabbatical, a customizable retreat that empowers intended parents or solo parents to explore their values, deepen connections, and develop a family manifesto under the guidance of expert surrogacy therapists.",
+      "url": "https://sabbatical.travel/experiences/surrogacy-sabbatical/"
+    },
+    {
+      "name": "Enduring Longevity",
+      "type": "Longevity",
+      "description": "Reveal the path to enduring vitality, thoughtfully curated for those whose successes are profound and now seek physical vitality and longevity.",
+      "url": "https://sabbatical.travel/experiences/enduring-longevity-2/"
+    },
+    {
+      "name": "Write Your Book",
+      "type": "Leadership",
+      "description": "Write the novel or memoir you've always envisioned, in the world's most inspiring landscapes. With Gotham Ghostwriters and a custom-matched coach or collaborator, embark on a luxury retreat that transforms your ideas into a first draft.",
+      "url": "https://sabbatical.travel/experiences/write-your-book/"
+    },
+    {
+      "name": "Pathways to Centered Happiness",
+      "type": "Burn out",
+      "description": "Centered happiness refers to a state of well-being that goes beyond mere transient pleasure or surface-level contentment. Instead, it involves a deeper sense of fulfillment, purpose, and peace that arises from being fully present, self-aware, and aligned with one's values and inner truth.",
+      "url": "https://sabbatical.travel/experiences/centered-happiness/"
+    }
+  ],
+  "media_coverage": [
+    {
+      "quote": "A new era of bespoke travel that promises fulfilment",
+      "source": "Robb Report — May 2023",
+      "url": "https://robbreport.com.au/travel/sabbatical-travel/"
+    },
+    {
+      "quote": "We want to see mindset shift and behaviour change",
+      "source": "Forbes — July 2023",
+      "url": "https://www.forbes.com.au/news/lifestyle/tv-star-went-from-a-journey-through-the-gates-of-hell-to-hosting-psychedelic-travel/"
+    },
+    {
+      "quote": "Bring a journal, go for walks and your true essence will reveal itself",
+      "source": "Body & Soul — October 2023",
+      "url": "https://www.bodyandsoul.com.au/wellness/real-life-career-change-stories/news-story/dbb408bd3072f8060bcf898fc2369cde"
+    },
+    {
+      "quote": "Only you have the power to transform. Together we change the world",
+      "source": "Travel & Luxury — February 2024",
+      "url": "https://todayspaper.theaustralian.com.au/html5/reader/production/default.aspx?pubname=&edid=1aa54cd9-f84b-4701-82ea-8e9fa43bc2b0&pnum=25"
+    },
+    {
+      "quote": "A psychedelic approach to healing leaders",
+      "source": "The Australian — December 2023",
+      "url": "https://www.theaustralian.com.au/subscribe/news/1/?sourceCode=TAWEB_WRE170_a_GGL&dest=https%3A%2F%2Fwww.theaustralian.com.au%2Fbusiness%2Fshark-tanks-catriona-wallace-and-nick-ingate-start-shamanic-retreat-sabbatical-to-heal-corporates%2Fnews-story%2Fc0f6228265ec8a427215119bedd66013&memtype=anonymous&mode=premium&v21=HIGH-Segment-2-SCORE&V21spcbehaviour=appendend"
+    }
+  ],
+  "journal_articles": [
+    {
+      "title": "Write up in Robb Report, the manual of modern luxury",
+      "category": "News",
+      "author": "Noelle Faulkner",
+      "url": "https://sabbatical.travel/journal/see-our-write-up-in-robb-report-the-manual-of-modern-luxury/"
+    },
+    {
+      "title": "The White Space After Exit: How Sabbatical Travel Helps Founders Find Their Next Chapter",
+      "category": "Opinions",
+      "author": "Nicholas Ingate",
+      "url": "https://sabbatical.travel/journal/white-space-after-exit-sabbatical-travel/"
+    },
+    {
+      "title": "Beyond the Retreat: A Vision for Mindful Transformation at Aro-Ha",
+      "category": "Interviews",
+      "author": "Damian Chaparro",
+      "url": "https://sabbatical.travel/journal/beyond-the-retreat-a-vision-for-mindful-transformation-at-aro-ha/"
+    },
+    {
+      "title": "The Future Of Travel Is Here",
+      "category": "Transformational Travel",
+      "url": "https://sabbatical.travel/journal/transformational-travel/"
+    },
+    {
+      "title": "Avoid burnout: You Are Not Your Start Up",
+      "category": "Burnout Prevention",
+      "url": "https://sabbatical.travel/journal/avoid-burnout/"
+    },
+    {
+      "title": "I Took A Sabbatical Holiday During My Prime Earning Years",
+      "category": "Personal Stories",
+      "url": "https://sabbatical.travel/journal/i-took-a-sabbatical-holiday-during-my-prime-earning-years/"
+    }
+  ],
+  "contact": {
+    "email": "guide@sabbatical.travel",
+    "instagram": "https://www.instagram.com/sabbatical.travel/",
+    "linkedin": "https://www.linkedin.com/company/sabbatical-travel/",
+    "psychedelic_interest": "https://sabbatical.travel/psychedelic-expression-of-interest/"
+  },
+  "copyright": "©2022-2025 Sabbatical. All rights reserved"
+}
