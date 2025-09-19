@@ -33,7 +33,7 @@ const Header = () => {
       <nav className="container-max">
         <div className="flex items-center justify-between h-16 px-4 sm:px-6 lg:px-8">
           {/* Logo */}
-          <Link to="/" className="flex items-center space-x-2">
+          <Link to="/" className="flex items-center">
             {/* Image logo from /public/logo.png; falls back to icon if not available */}
             <img
               src="/logo.png"
@@ -43,9 +43,6 @@ const Header = () => {
               onError={() => setIsLogoLoaded(false)}
             />
             {!isLogoLoaded && <Compass className="h-8 w-8 text-primary-600" />}
-            <span className="text-xl font-bold text-gray-900">
-              {sabbaticalData.company}
-            </span>
           </Link>
 
           {/* Desktop Navigation */}
